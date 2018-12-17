@@ -1,0 +1,1 @@
+[null,{"name":"NewEvent","temp":"","event-type":"2","_id":"LbDtR","actions":[{"channelName":"oof","topic":"","position":"","storage":"0","varName":"","name":"Create Text Channel"},{"channelName":"oof","bitrate":"","userLimit":"","storage":"0","varName":"","name":"Create Voice Channel"},{"source":"1","type":"true","name":"Loop Through All Servers"}]}]
